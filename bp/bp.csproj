@@ -99,7 +99,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Contend\CSS.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\mujcss.css" />
     <Content Include="Content\offcanvas.css" />
