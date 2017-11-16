@@ -290,6 +290,7 @@
     <Content Include="Views\Shared\_layout.cshtml" />
     <Content Include="Views\Clanky\seznam.cshtml" />
     <Content Include="Views\Clanky\upravit.cshtml" />
+    <Content Include="Views\Home\Kontakty.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

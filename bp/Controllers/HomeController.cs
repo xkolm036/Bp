@@ -27,9 +27,12 @@ namespace bp.Controllers
             ViewBag.jmeno = FirstName;
             return View();
         }
-   
-    
-      
+
+        public ActionResult Kontakty()
+        {
+            return View();
+        }
+
 
 
     }
