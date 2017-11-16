@@ -1,0 +1,25 @@
+﻿
+
+
+@using data.Model
+@model List<Clanek>
+
+
+
+
+<div>
+  Inputy <br>
+    @using (Html.BeginForm("Form", "Home", FormMethod.Post))
+    {
+
+        <div class="form-group">
+            <label for="exampleInputEmail1">Název článku</label>
+            <input type="text" class="form-control" placeholder="Text input" name="FirstName">
+        </div>
+
+      
+      <input type="submit">
+    }
+
+
+</div>

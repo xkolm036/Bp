@@ -1,0 +1,18 @@
+﻿@using data.Model
+
+@{
+    ViewBag.Title = "detailClanku";
+}
+
+@model Clanek
+
+
+
+@section main
+{
+    <h1>@Model.nazev </h1>
+}
+<b>Nazev:</b> @Model.nazev <br>
+<b>Autor:</b> @Model.autor <br>
+<b>Datum:</b> vytvoreni: @Model.datumVytvoreni <br>
+<b>Text:</b> @Html.Raw(Model.text);

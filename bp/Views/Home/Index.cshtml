@@ -1,0 +1,38 @@
+﻿@using data.Model
+@model List<Clanek>
+
+@section main{
+    <h1>Aktuality</h1>
+
+
+}
+
+
+
+
+
+
+@foreach (Clanek cl in Model)
+{
+
+    <div class="col-xs-6 col-lg-4">
+        <h2>@cl.nazev</h2>
+        @if (cl.text.Count() > 350)
+        {
+            cl.text = cl.text.Substring(0, 350);
+            cl.text = cl.text.Trim();
+            if (cl.text.Contains(" "))
+            {
+                cl.text = cl.text.Remove(cl.text.LastIndexOf(" "));
+            }
+
+
+        }
+         
+        <p>@Html.Raw(cl.text) </p>
+        <p><a class="btn btn-default" href="@Url.Action("Detail","Clanky",new {id=cl.id })" role="button">Číst dále &raquo;</a></p>
+    </div><!--/.col-xs-6.col-lg-4-->
+
+}
+
+

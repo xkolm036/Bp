@@ -1,0 +1,44 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Contend/CSS.css">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <title>_layout</title>
+
+</head>
+<body>
+    <div class="menu_own">
+        <ul>
+            <li><a href="@Url.Action("Index","Home")">Home</a></li>
+            <li><a href="@Url.Action("info","Home")">Druha</a></li>
+            
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdowno">
+                <a href="javascript:void(0)" class="dropbtno">Správa</a>
+                <div class="dropdowno-content">
+                    <a href="@Url.Action("Index","Clanky")">Přidat článek</a>
+                    <a href="#">Seznam článků</a>
+                    
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+
+
+    <div class="text">
+        @RenderBody()
+    </div>
+
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+
+
+</body>
+</html>
