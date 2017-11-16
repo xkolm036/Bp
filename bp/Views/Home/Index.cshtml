@@ -11,11 +11,11 @@
 
 
 
-
+<div class="container-clanky">
 @foreach (Clanek cl in Model)
 {
 
-    <div class="col-xs-6 col-lg-4">
+    <div class="items">
         <h2>@cl.nazev</h2>
         @if (cl.text.Count() > 350)
         {
@@ -30,9 +30,9 @@
         }
          
         <p>@Html.Raw(cl.text) </p>
-        <p><a class="btn btn-default" href="@Url.Action("Detail","Clanky",new {id=cl.id })" role="button">Číst dále &raquo;</a></p>
+        <a class="btn btn-default" id="detail_cl" href="@Url.Action("Detail","Clanky",new {id=cl.id })" role="button">Číst dále &raquo;</a>
     </div><!--/.col-xs-6.col-lg-4-->
 
 }
-
+    </div>
 
