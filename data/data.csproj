@@ -90,7 +90,6 @@
       <DependentUpon>ClanekModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Model\Clanek.cs" />
-    <Compile Include="Model\database.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
