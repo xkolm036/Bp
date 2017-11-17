@@ -2,11 +2,16 @@
 @model List<Clanek>
 
 @section main{
+    <div class="background">
     <h1>Aktuality</h1>
-
-
+</div>
 }
 
+@section dropdown{
+
+    <li><a href="@Url.Action("Pridat", "Clanky")">Přidat článek</a></li>
+    <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
+}
 
 
 

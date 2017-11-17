@@ -13,6 +13,7 @@ namespace bp.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            ViewBag.Background = "background";
             return View(Clanek.VseZDB());
         }
 

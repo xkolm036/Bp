@@ -36,12 +36,12 @@
                     <li><a href="@Url.Action("druha","Home")">Druha</a></li>
                     <li><a href="@Url.Action("Kontakty","Home")">Contact</a></li>
                 </ul>
+
                 <ul class="nav navbar-nav navbar-right">
                     <li id="fat-menu" class="dropdown, clearfix,navbar-right">
                         <a href="#" class="dropdown-toggle" id="drop3" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> Správa <span class="caret"></span> </a>
                         <ul class="dropdown-menu" aria-labelledby="drop3">
-                            <li><a href="@Url.Action("Pridat", "Clanky")">Přidat článek</a></li>
-                            <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
+                            @RenderSection("dropdown", false)
                             <li> <a href="#">Something else here</a></li>
                             <li role="separator" class="divider"></li>
                             <li><a href="#">Separated link</a></li>
@@ -49,6 +49,7 @@
                     </li> <!-- /dropdown-->
 
                 </ul>
+
             </div><!-- /.nav-collapse -->
         </div><!-- /.container -->
     </nav><!-- /.navbar -->
@@ -84,7 +85,7 @@
                 <p class="pull-right visible-xs">
                     <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
                 </p>
-                <div class="jumbotron">
+                <div class="jumbotron" id="@ViewBag.background">
                     @RenderSection("main", false)
                 </div>
                 <div class="row">
