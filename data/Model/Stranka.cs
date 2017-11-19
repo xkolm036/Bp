@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Web.Mvc;
+
+namespace data.Model
+{
+   public class Stranka
+    {
+        [AllowHtml]
+        public string text { get; set; } = null;
+    }
+}

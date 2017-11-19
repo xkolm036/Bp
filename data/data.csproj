@@ -90,6 +90,7 @@
       <DependentUpon>ClanekModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Model\Clanek.cs" />
+    <Compile Include="Model\Stranka.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -120,5 +121,6 @@
       <LastGenOutput>ClanekModel.cs</LastGenOutput>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -259,6 +259,7 @@
     <Content Include="Scripts\tinymce\themes\modern\theme.min.js" />
     <Content Include="Scripts\tinymce\tinymce.js" />
     <Content Include="Scripts\tinymce\tinymce.min.js" />
+    <Content Include="Stranky\Kontakty.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -291,6 +292,7 @@
     <Content Include="Views\Clanky\seznam.cshtml" />
     <Content Include="Views\Clanky\upravit.cshtml" />
     <Content Include="Views\Home\Kontakty.cshtml" />
+    <Content Include="Views\Home\Kontakty_edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
