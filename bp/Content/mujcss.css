@@ -21,8 +21,3 @@ div[id="background"] {
     color: white;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-
-#page-edit{
-    height:90%;
-    background-color:red;
-}

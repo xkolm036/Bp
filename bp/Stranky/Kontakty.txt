@@ -1,4 +1,4 @@
-<table style="width: 529px; height: 294px;" cellspacing="1" cellpadding="1">
+<table style="width: 849px; height: 660px;" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
 <td style="width: 254px;"><span style="font-family: Tahoma;"><strong>&nbsp;Ofici&aacute;ln&iacute; n&aacute;zev:</strong></span></td>
