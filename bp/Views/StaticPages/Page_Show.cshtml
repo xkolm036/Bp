@@ -1,0 +1,16 @@
+﻿
+@using data.Model;
+@model Stranka
+
+@section main{
+    <h1>@Model.title</h1>
+    }
+
+@section dropdown{
+    
+<li><a href="@Url.Action("Page_Edit", "StaticPages",new {name=Model.title })">Upravit stránku</a></li>
+    }
+
+<p>
+   @Html.Raw(Model.text)
+</p>

@@ -1,0 +1,1602 @@
+<table style="width: 515px; height: 606px;" cellspacing="1" cellpadding="1" align="left">
+<tbody>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Česk&aacute; bezpečnostn&iacute; agentura - J. T. R. servis s.r.o.</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Hostouňsk&aacute; 350, 273&nbsp;45&nbsp;Hřebeč</td>
+</tr>
+<tr>
+<td>IČO: 038&nbsp;31&nbsp;442</td>
+</tr>
+<tr>
+<td>Kontakt: +420 607&nbsp;132&nbsp;175&nbsp;- Ren&eacute; Kruml</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+420 773&nbsp;255&nbsp;678&nbsp;- Jiř&iacute; Čern&yacute;</td>
+</tr>
+<tr>
+<td>web: <a href="http://www.jtrservis.cz">www.jtrservis.cz</a></td>
+</tr>
+<tr>
+<td>email: <a href="mailto:j.t.r.servis@seznam.cz">j.t.r.servis@seznam.cz</a></td>
+</tr>
+<tr>
+<td>Bezpečnostn&iacute; agentura se&nbsp;specializac&iacute; na&nbsp;ostrahu objektů a&nbsp;staveb.</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Zpracov&aacute;n&iacute; projektu ostrahy.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Fyzick&aacute; ostraha objektů vnitřn&iacute; i&nbsp;vněj&scaron;&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Ostraha kulturn&iacute;ch a&nbsp;společensk&yacute;ch akc&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Recepčn&iacute; služby.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Služby bodyguarda (osobn&iacute; str&aacute;žce).</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Elektronick&eacute; zabezpečen&iacute; objektů, monitorovac&iacute; služby.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Připojen&iacute; na&nbsp;pult centr&aacute;ln&iacute; ochrany.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Převoz cenin a&nbsp;hotovosti.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Doprovod a&nbsp;ochrana kamionov&yacute;ch z&aacute;silek.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>&Uacute;klidov&eacute; služby. </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Odborn&eacute; zahradnick&eacute; služby </span></strong></td>
+</tr>
+<tr>
+<td>Ing. Marek &Scaron;tochl, Ph.D.</td>
+</tr>
+<tr>
+<td>IČ: 87054795&nbsp;DIČ: CZ8107301180 - pl&aacute;tce DPH</td>
+</tr>
+<tr>
+<td>Adresa: 28.&nbsp;ř&iacute;jna 3, 273&nbsp;45&nbsp;Hřebeč</td>
+</tr>
+<tr>
+<td>web: <a href="http://www.muj-zahradnik.cz">www.muj-zahradnik.cz</a></td>
+</tr>
+<tr>
+<td>email: <a href="mailto:marek.stochl@seznam.cz">marek.stochl@seznam.cz</a></td>
+</tr>
+<tr>
+<td>
+<p>Předmět činnosti:</p>
+<ul>
+<li>&Uacute;držba zahrada soukrom&eacute; i&nbsp;veřejn&eacute; zeleně.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Rekonstrukce zahrad.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Zakl&aacute;d&aacute;n&iacute; a&nbsp;realizace zahrad a&nbsp;zeleně.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Řez a&nbsp;př&iacute;padně k&aacute;cen&iacute; ovocn&yacute;ch a&nbsp;okrasn&yacute;ch keřů a&nbsp;stromů.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Chemick&aacute; ochrana rostlin.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Poradensk&eacute; služby.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Kosmetick&eacute; služby Pavla &Scaron;kubalov&aacute;</span></strong></td>
+</tr>
+<tr>
+<td>Provozovna: Kladno, Dům techniky S&iacute;tn&aacute;, Cyrila Boudy 1444&nbsp;(vedle po&scaron;ty)</td>
+</tr>
+<tr>
+<td>Privat: Ořechov&aacute; 658, 273&nbsp;45&nbsp;Hřebeč</td>
+</tr>
+<tr>
+<td>Kontakt: 728&nbsp;993&nbsp;340</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:pavlasku@centrum.cz">pavlasku@centrum.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: CS; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><span style="color: #000000;">Kosmetick&eacute; o&scaron;etřen&iacute; pleti.</span></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: CS; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><span style="color: #000000;">Mas&aacute;ž obličeje a&nbsp;dekoltu.</span></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: CS; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><span style="color: #000000;">Pleťov&eacute; masky, novinka Lifting masky.</span></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: CS; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><span style="color: #000000;">Barven&iacute; řas a&nbsp;oboč&iacute;.</span></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: CS; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><span style="color: #000000;">Depilace.</span></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Prodej kosmetiky Ryor.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>D&aacute;rkov&eacute; poukazy.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Mas&aacute;že Jana Cikhartov&aacute;</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Kladensk&aacute; 260, 273&nbsp;45&nbsp;Hřebeč</td>
+</tr>
+<tr>
+<td>IČ: 04265947</td>
+</tr>
+<tr>
+<td>Kontakt: 733&nbsp;324&nbsp;611</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:janacikhartova@seznam.cz">janacikhartova@seznam.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Sportovn&iacute; a&nbsp;rekondičn&iacute; mas&aacute;že.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Mas&aacute;že l&aacute;vov&yacute;mi kameny.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Kosmetick&aacute; manu&aacute;ln&iacute; lymfodren&aacute;ž.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Restaurace - Kulturn&iacute; dům Hřebeč</span></strong></td>
+</tr>
+<tr>
+<td>
+<p>Adresa:&nbsp; n&aacute;m. Draha 75, 273&nbsp;45&nbsp;Hřebeč</p>
+<p>Kontakt:&nbsp; 776&nbsp;334&nbsp;607&nbsp;- p.&nbsp;Roman Antl</p>
+<p>pron&aacute;jem s&aacute;lu: nutno objednat na&nbsp;O&Uacute; Hřebeč, tel. 312&nbsp;253&nbsp;375</p>
+</td>
+</tr>
+<tr>
+<td><a href="http://www.facebook.com/restauracehrebec">www.facebook.com/restauracehrebec</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p align="LEFT"><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Lenka Pokorn&aacute; - služby v&nbsp;oblasti realitn&iacute;ho pr&aacute;va</span></strong></p>
+</td>
+</tr>
+<tr>
+<td>Adresa: Hřebeč, Na&nbsp;Tasově 678</td>
+</tr>
+<tr>
+<td>Kontakt: +420 601&nbsp;331&nbsp;739, +420 777&nbsp;070&nbsp;869</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:pravoRK@seznam.cz">pravoRK@seznam.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Smlouvy ve&nbsp;vztahu k&nbsp;nemovitostem (kupn&iacute;, z&aacute;stavn&iacute;, darovac&iacute;, směnn&eacute;, n&aacute;jemn&iacute;, zř&iacute;zen&iacute; věcn&yacute;ch břemen, v&yacute;mazy pr&aacute;vn&iacute;ch vad v&aacute;znouc&iacute;ch na&nbsp;nemovitostech, převod družstevn&iacute;ho pod&iacute;lu v&nbsp;bytov&eacute;m družstvu apod.).</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Zaji&scaron;těn&iacute; &uacute;schovy kupn&iacute; ceny (advok&aacute;t, not&aacute;ř, banka).</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Realitn&iacute; služby.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Znaleck&eacute; posudky ve&nbsp;vztahu k&nbsp;nemovitostem.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Finančn&iacute; poradce - Eva &Scaron;oustkov&aacute;</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Hřebeč, Opletalova 311</td>
+</tr>
+<tr>
+<td>Kontakt: +420 774&nbsp;331&nbsp;226</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:eva.soustkova@seznam.cz">eva.soustkova@seznam.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Hypot&eacute;ky, půjčky, refinancov&aacute;n&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Stavebn&iacute; spořen&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Penzijn&iacute; poji&scaron;těn&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Životn&iacute; a&nbsp;majetkov&eacute; poji&scaron;těn&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Průmyslov&eacute; poji&scaron;těn&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Podnikatelsk&eacute; &uacute;věry.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Dorty - Julija Kubi&scaron;tov&aacute;</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Hřebeč, Bu&scaron;těhradsk&aacute; 617</td>
+</tr>
+<tr>
+<td>Kontakt:&nbsp; +420 734&nbsp;818&nbsp;681</td>
+</tr>
+<tr>
+<td>web: <a href="http://sladkyzivot.jimdo.com">http://sladkyzivot.jimdo.com</a></td>
+</tr>
+<tr>
+<td>facebook.com/dortysladkyzivot</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Dorty narozeninov&eacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>3D dorty.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Motivy na&nbsp;př&aacute;n&iacute;.</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Studio GEM, s.r.o. (Game Education Mystery)</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Hřebeč, Opletalova 287</td>
+</tr>
+<tr>
+<td>IČ: 241&nbsp;20&nbsp;278, DIČ: CZ 241&nbsp;20&nbsp;278</td>
+</tr>
+<tr>
+<td>Kontakt:&nbsp; +420 777&nbsp;232&nbsp;344&nbsp;- Mgr. Jana Chaloupkov&aacute;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +420 774&nbsp;658&nbsp;022&nbsp;- p&iacute;. Martina Sanetr&iacute;kov&aacute;</p>
+</td>
+</tr>
+<tr>
+<td>web: <a href="http://www.studiogem.cz">www.studiogem.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>V&yacute;roba a&nbsp;prodej keramiky - Keramick&yacute; ateli&eacute;r JCH.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Mimo&scaron;koln&iacute; vzděl&aacute;v&aacute;n&iacute;, semin&aacute;ře, kurzy.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Volnočasov&eacute; aktivity pro&nbsp;děti i&nbsp;dospěl&eacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Poř&aacute;d&aacute;n&iacute; kulturn&iacute;ch akc&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Vydavatelstv&iacute; a&nbsp;nakladatelstv&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Kamila Zubkov&aacute;</span></strong></td>
+</tr>
+<tr>
+<td>IČO: 02604540</td>
+</tr>
+<tr>
+<td>tel.: 606&nbsp;698&nbsp;461</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:kamila.zubkova@ovbmail.cz">kamila.zubkova@ovbmail.cz</a></td>
+</tr>
+<tr>
+<td>Finančn&iacute; poradenstv&iacute; v&nbsp;oblasti bydlen&iacute;, zaji&scaron;těn&iacute; budoucnosti a&nbsp;zhodnocen&iacute; &uacute;spor.</td>
+</tr>
+<tr>
+<td>Prov&aacute;d&iacute;m průzkum trhem a&nbsp;vyberu pro&nbsp;klienta individu&aacute;ln&iacute; ře&scaron;en&iacute;.</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Hypot&eacute;ky, překlenovac&iacute; &uacute;věry, refinancov&aacute;n&iacute;, americk&eacute; hypot&eacute;ky.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Rizikov&eacute; životn&iacute;, kapit&aacute;lov&eacute; a&nbsp;investičn&iacute; poji&scaron;těn&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Poji&scaron;těn&iacute; majetku a&nbsp;dom&aacute;cnosti, poji&scaron;těn&iacute; prac. neschopnosti, poji&scaron;těn&iacute; odpovědnosti.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Poji&scaron;těn&iacute; pr&aacute;vn&iacute; odpovědnosti.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Spoř&iacute;c&iacute; &uacute;čty a&nbsp;pod&iacute;lov&eacute; fondy.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Servis v&yacute;početn&iacute; techniky - Jiř&iacute; Vild</span></strong></td>
+</tr>
+<tr>
+<td>Adresa: Hřebeč, Habrov&aacute; 625</td>
+</tr>
+<tr>
+<td>tel.: 605&nbsp;245&nbsp;455</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:jirvil@atlas.cz">jirvil@seznam.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Odvirov&aacute;n&iacute;, optimalizace, vyči&scaron;těn&iacute;, z&aacute;lohy, spr&aacute;va s&iacute;t&iacute;, upgrade PC a&nbsp;dal&scaron;&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">Autoservis Automikas</span></strong></td>
+</tr>
+<tr>
+<td>Miroslav Strial</td>
+</tr>
+<tr>
+<td>Adresa:&nbsp; Huťsk&aacute; 370,&nbsp;Kladno</td>
+</tr>
+<tr>
+<td>tel.: 608&nbsp;103 999</td>
+</tr>
+<tr>
+<td>email: <a href="mailto:info@automikas.cz">info@automikas.cz</a></td>
+</tr>
+<tr>
+<td>web: <a href="http://www.automikas.cz">www.automikas.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Pravideln&aacute; &uacute;držba vozidel.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Opravy vozidel.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>&Uacute;držba a&nbsp;opravy klimatizac&iacute; vozidel.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Pneuservis.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Gener&aacute;ln&iacute; opravy agreg&aacute;tů.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Servis palivov&yacute;ch soustav.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Spr&aacute;va vozov&eacute;ho parku.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Prodej n&aacute;hradn&iacute;ch d&iacute;lů.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Opravy př&iacute;věsn&yacute;ch voz&iacute;ků.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Odtahov&aacute; služba.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Svařov&aacute;n&iacute; hlin&iacute;ku a&nbsp;jin&yacute;ch materi&aacute;lů metodou tig.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Prodej a&nbsp;mont&aacute;ž tažn&yacute;ch zař&iacute;zen&iacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong><span style="color: #000080; font-family: Tahoma; font-size: small;">ARFERIT s.r.o</span></strong></td>
+</tr>
+<tr>
+<td>Provoz: Stochov, ul. Osvobozen&iacute; - are&aacute;l n&aacute;kl. n&aacute;draž&iacute; Stochov (směr k&nbsp;Tescu)</td>
+</tr>
+<tr>
+<td>tel: 734&nbsp;477&nbsp;196, 312&nbsp;242&nbsp;016</td>
+</tr>
+<tr>
+<td>web:&nbsp;<a href="http://www.arferit.cz">www.arferit.cz</a></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>V&yacute;kup železa, pap&iacute;ru, barevn&yacute;ch kovů, EURO palet.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>N&aacute;jezdov&aacute; v&aacute;ha 30t.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Provozn&iacute; doba:</p>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 220px; height: 103px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td width="50">
+<p>ponděl&iacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>&uacute;ter&yacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>středa</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>čtvrtek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>p&aacute;tek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>sobota</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 12.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: small;"><span style="font-family: Tahoma;"><span style="color: #000080;"><strong>PO&Scaron;TA&nbsp;HŘEBEČ</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: small;"><span style="font-family: Tahoma;">Adresa: Kladensk&aacute; 1, 273&nbsp;45&nbsp;Hřebeč</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: small;"><span style="font-family: Tahoma;">tel.: 312&nbsp;253&nbsp;665, 312&nbsp;253&nbsp;773</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: small;"><span style="font-family: Tahoma;">Provozn&iacute; doba:</span></span></p>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table style="width: 375px; height: 86px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td width="50">
+<p>ponděl&iacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 11.00</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>15.00 - 17.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>&uacute;ter&yacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 11.30</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>13.00 - 15.30</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>středa</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 12.00</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>15.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>čtvrtek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 11.30</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>13.00 - 15.30</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>p&aacute;tek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>8.00 - 11.30</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>13.00 - 15.30</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;"><strong><span style="color: #000080;">Družstvo JEDNOTA&nbsp;KLADNO, pobočka Hřebeč</span></strong></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;"><span style="color: #000080;"><strong>Maloobchodn&iacute; prodej potravin a&nbsp;drogistick&eacute;ho zož&iacute;</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;">Adresa: n&aacute;m. Draha 41, 273&nbsp;45&nbsp;Hřebeč</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;">tel.: 312&nbsp;253&nbsp;350</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;">Provozn&iacute; doba:</span></span></p>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table style="width: 220px; height: 103px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td width="50">
+<p>ponděl&iacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>&uacute;ter&yacute;</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>středa</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 12.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>čtvrtek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>p&aacute;tek</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 16.00</p>
+</td>
+</tr>
+<tr>
+<td width="50">
+<p>sobota</p>
+</td>
+<td style="text-align: center;" width="100">
+<p>7.00 - 11.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;"><strong><span style="color: #000080;">KONZUM MARTINA</span></strong></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prodej potravin a&nbsp;drogistick&eacute;ho zbož&iacute;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adresa: Kladensk&aacute; 1, 273&nbsp;45&nbsp;Hřebeč (Dům služeb)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tel.: 312&nbsp;253&nbsp;900</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Provozn&iacute; doba:</p>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 350px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td style="width: 56px;">
+<p>ponděl&iacute;</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.30</p>
+</td>
+<td style="width: 157px; text-align: center;">
+<p>14.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>&uacute;ter&yacute;</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.30</p>
+</td>
+<td style="width: 157px; text-align: center;">
+<p>14.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>středa</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.30</p>
+</td>
+<td style="width: 157px; text-align: center;">
+<p>14.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>čtvrtek</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.30</p>
+</td>
+<td style="width: 157px; text-align: center;">
+<p>14.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>p&aacute;tek</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.30</p>
+</td>
+<td style="width: 157px; text-align: center;">
+<p>14.00 - 18.00</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>sobota</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>7.00 - 11.00</p>
+</td>
+<td style="width: 157px;">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>neděle</p>
+</td>
+<td style="width: 153px; text-align: center;">
+<p>9.00 - 12.00</p>
+</td>
+<td style="width: 157px;">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<span style="color: #000080;"><span style="font-family: Tahoma;"><span style="font-size: small;"><strong>Veden&iacute; &uacute;četnictv&iacute;, daňov&eacute; evidence, person&aacute;ln&iacute; agendy, daňov&aacute; přizn&aacute;n&iacute;</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;"><strong>&nbsp;</strong><span style="color: #000080;"><strong>BAS - Blanka Svobodov&aacute;</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;">&nbsp;Adresa: Nezamyslova 1368, 272&nbsp;01&nbsp;Kladno</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;tel.: 731&nbsp;157&nbsp;580,&nbsp; 312&nbsp;662&nbsp;996</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;email: <a>bas-ucetnictvi@bas-ucetnictvi.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<a href="http://www.bas-ucetnictvi.cz" target="_blank" rel="noopener">www.bas-ucetnictvi.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="color: #000080;"><strong><span style="font-family: Tahoma;"><span style="font-size: small;">Mzdov&eacute; a&nbsp;finančn&iacute; &uacute;četnictv&iacute; - Ivana Gerschonov&aacute;</span></span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adresa: Na&nbsp;Tasově 646, 273&nbsp;45&nbsp; Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tel.: 737&nbsp;813&nbsp;555</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>email: <a>ivanager@post.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>Veden&iacute; mzdov&eacute;ho i&nbsp;finančn&iacute;ho &uacute;četnictv&iacute;.</p>
+</li>
+<li>
+<p>Bohat&eacute; zku&scaron;enosti i&nbsp;v&nbsp;&uacute;četnictv&iacute; př&iacute;spěvkov&yacute;ch organizac&iacute;.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;"><span style="font-size: small;"><strong>&nbsp;</strong><span style="color: #000080;"><strong>Kosmetick&eacute; studio MK - Marcela Kovař&iacute;kov&aacute;</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;Adresa: Lidick&aacute; 554, 273&nbsp;45&nbsp;Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;tel.: 604&nbsp;503&nbsp;183</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;email: <a>kosmetika-mk@seznam.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<a href="http://www.kosmetika-mk.webnode.cz" target="_blank" rel="noopener">www.kosmetika-mk.webnode.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="color: #000080;"><span style="font-size: small;"><strong><span style="font-family: Tahoma;">Zemn&iacute; a&nbsp;v&yacute;kopov&eacute; pr&aacute;ce minibagrem - Hugo Křiv&aacute;nek</span></strong></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: bold;">Adresa: </span>Nov&aacute; 266, 273&nbsp;45&nbsp;Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;tel.:&nbsp; 604&nbsp;513&nbsp;330</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;email: <a>krivanek.hugo@seznam.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>Zemn&iacute; a&nbsp;v&yacute;kopov&eacute; pr&aacute;ce minibagrem.</p>
+</li>
+<li>
+<p>Doprava multik&aacute;rou.</p>
+</li>
+<li>
+<p>&Uacute;držba zahrady.</p>
+</li>
+<li>
+<p>Prodej palivov&eacute;ho dřeva.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: small;"><span style="color: #000080;"><strong><span style="font-family: Tahoma;">KADEŘNICTV&Iacute; - Iveta Panenkov&aacute;</span></strong></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Arial;">adresa: Kladensk&aacute; 1, 273&nbsp;45&nbsp;Hřebeč ( Dům služeb)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tel.: 605&nbsp;706&nbsp;402</p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Kadeřnictv&iacute;: d&aacute;msk&eacute;, p&aacute;nsk&eacute;, dětsk&eacute;.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: Tahoma;">&nbsp;<span style="font-size: small;"><span style="color: #000080;"><strong>Studio FANTAZIE - Veronika Ber&aacute;nkov&aacute;</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<span style="font-family: Arial;">Adresa: Kladensk&aacute; 1, 273&nbsp;45&nbsp;Hřebeč ( Dům služeb) </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;tel.:&nbsp; 737&nbsp;037&nbsp;741</p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>Pedik&uacute;ra,&nbsp;paraf&iacute;nov&eacute; z&aacute;baly.</p>
+</li>
+<li>
+<p>Gelov&aacute; model&aacute;ž ( i&nbsp;potažen&iacute; př&iacute;rodn&iacute;ho nehtu gelem ), manik&uacute;ra, P - shine.</p>
+</li>
+<li>
+<p>Kadeřnictv&iacute;: d&aacute;msk&eacute;, p&aacute;nsk&eacute;, dětsk&eacute;.</p>
+</li>
+<li>
+<p>Svatebn&iacute; a&nbsp;plesov&yacute; servis, prodej kosmetick&yacute;ch př&iacute;pravků.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;Provozn&iacute; doba:</p>
+</td>
+</tr>
+<tr>
+<td>
+<table border="1" width="200" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td style="text-align: left;">
+<p>ponděl&iacute;:</p>
+</td>
+<td style="text-align: center;">
+<p>08:00 - 16:00</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>&uacute;ter&yacute;:</p>
+</td>
+<td style="text-align: center;">
+<p>10:00 - 19:00</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>středa:</p>
+</td>
+<td style="text-align: center;">
+<p>08:00 - 16:00</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>čtvrtek:</p>
+</td>
+<td style="text-align: center;">
+<p>10:00 - 18:00</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>p&aacute;tek:</p>
+</td>
+<td style="text-align: center;">
+<p>08:00 - 15:00</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>sobota:</p>
+</td>
+<td style="text-align: center;">
+<p>dle domluvy</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>neděle:</p>
+</td>
+<td style="text-align: center;">
+<p>zavřeno</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: left;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p><span style="color: #99ffff;"><span style="color: #99ffff;"><span style="color: #99ffff;"><span style="font-family: Tahoma;"><strong><span style="color: #000080;">Pavel Gerschon - PLATAN&nbsp;&nbsp; zahradnick&aacute; firma</span></strong></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>Adresa: Na&nbsp;Tasově 646, 273&nbsp;45&nbsp;Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>mobil: 603&nbsp;543&nbsp;146&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>email: <a href="mailto:platan.zahrady@seznam.cz">platan.zahrady@seznam.cz</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p><a href="http://www.toptip.cz/platan" target="_blank" rel="noopener">www.toptip.cz/platan</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<p>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<ul>
+<li>
+<p>N&aacute;vrhy, zakl&aacute;d&aacute;n&iacute; a&nbsp;&uacute;držba zahrad.</p>
+</li>
+<li>
+<p>Pokl&aacute;dka kobercov&yacute;ch tr&aacute;vn&iacute;ků.</p>
+</li>
+<li>
+<p>Interi&eacute;rov&aacute; zeleň, os&aacute;zen&iacute; n&aacute;dob a&nbsp;truhl&iacute;ků.</p>
+</li>
+<li>
+<p>K&aacute;cen&iacute;, zdravotn&iacute; a&nbsp;tvarovac&iacute; řezy stromů a&nbsp;keřů.</p>
+</li>
+</ul>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" width="515" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span style="color: #00ff00;"><span style="font-family: Tahoma;"><span style="color: #000080;"><strong>Milan Hanz&aacute;k - stavebn&iacute; firma <span style="color: #00ff00;">ALFA</span></strong></span></span></span></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adresa: Na&nbsp;kov&aacute;rně 567, 272&nbsp;01&nbsp;Kladno - Kročehlavy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tel.: 603&nbsp;815&nbsp;488, 312&nbsp;248&nbsp;300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>email: <a href="mailto:hanzak.alfa@iol.cz">alfa@alfa-hanzak.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://www.alfa-hanzak.cz">www.alfa-hanzak.cz</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>V&yacute;stavba a&nbsp;rekonstrukce RD&nbsp;a&nbsp;bytov&yacute;ch jader.</p>
+</li>
+<li>
+<p>Rekonstrukce koupelen, půdn&iacute; vestavby.</p>
+</li>
+<li>
+<p>Zateplov&aacute;n&iacute; fas&aacute;d, z&aacute;mkov&eacute; dlažby, s&aacute;drokartony.</p>
+</li>
+<li>
+<p>Dod&aacute;vky a&nbsp;mont&aacute;že obkladů a&nbsp;dlažeb.</p>
+</li>
+<li>
+<p>Člen Cechu obkladačů Česk&eacute; republiky.</p>
+</li>
+<li>
+<p>Registrace v&nbsp;Seznamu odborn&yacute;ch dodavatelů Zelen&aacute; &uacute;spor&aacute;m.</p>
+</li>
+<li>
+<p>Firma s&nbsp;v&iacute;ce jak 20-tiletou tradic&iacute;.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="color: #000080;"><strong><span style="font-family: Tahoma;">Marci&aacute;nov&aacute; Lenka</span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adresa: Bu&scaron;těhradsk&aacute; 613, Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>email: <a href="mailto:lenka.marcianova@seznam.cz">lenka.marcianova@seznam.cz</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>Kompletn&iacute; zpracov&aacute;n&iacute; &uacute;četnictv&iacute;, daňov&eacute; evidence a&nbsp;mzdov&eacute; agendy.</p>
+</li>
+<li>
+<p>Zpracov&aacute;n&iacute; daňov&yacute;ch přizn&aacute;n&iacute;.</p>
+</li>
+<li>
+<p>&Uacute;četn&iacute; poradenstv&iacute;.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="color: #000080;"><strong><span style="font-family: Tahoma;">Mac&aacute;kov&aacute; Anna&nbsp;- ps&iacute; salon</span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>
+<p>Stř&iacute;h&aacute;n&iacute; a&nbsp;&uacute;prava v&scaron;ech psů.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adresa: Bu&scaron;těhradsk&aacute; 163, Hřebeč</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tel.: 775&nbsp;943&nbsp;297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://www.strihanipsu.okamzite.eu">www.strihanipsu.okamzite.eu</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

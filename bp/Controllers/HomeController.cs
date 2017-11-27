@@ -29,24 +29,5 @@ namespace bp.Controllers
             return View();
         }
 
-        public ActionResult Kontakty()
-        {
-            Stranka s =new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/Kontakty.txt")) };
-            return View(s);
-        }
-
-        public ActionResult Kontakty_edit()
-        {
-            Stranka s = new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/Kontakty.txt")) };
-            return View(s);
-        }
-
-        [HttpPost]
-        public ActionResult Kontakty_edit_save(Stranka s)
-        {
-        System.IO.File.WriteAllText(Server.MapPath(@"~/Stranky/Kontakty.txt"), s.text);
-            return RedirectToAction("Kontakty", "Home");
-        }
-
     }
 }

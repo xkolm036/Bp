@@ -259,13 +259,17 @@
     <Content Include="Scripts\tinymce\themes\modern\theme.min.js" />
     <Content Include="Scripts\tinymce\tinymce.js" />
     <Content Include="Scripts\tinymce\tinymce.min.js" />
+    <Content Include="Stranky\Firmy.txt" />
+    <Content Include="Stranky\Knihovna.txt" />
     <Content Include="Stranky\Kontakty.txt" />
+    <Content Include="Stranky\Lekari.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ClankyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\StaticPagesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -291,8 +295,8 @@
     <Content Include="Views\Shared\_layout.cshtml" />
     <Content Include="Views\Clanky\seznam.cshtml" />
     <Content Include="Views\Clanky\upravit.cshtml" />
-    <Content Include="Views\Home\Kontakty.cshtml" />
-    <Content Include="Views\Home\Kontakty_edit.cshtml" />
+    <Content Include="Views\StaticPages\Page_Show.cshtml" />
+    <Content Include="Views\StaticPages\Page_Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

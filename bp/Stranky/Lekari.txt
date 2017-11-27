@@ -1,0 +1,352 @@
+<table cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td>
+<h2><span style="color: #000000;"><span style="font-size: large;"><strong><span style="font-size: large;">Dětsk&yacute; l&eacute;kař - MUDr. Pavel Sk&aacute;la</span></strong></span></span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<div><span style="color: #000000;"><span style="font-size: small;"><strong><span style="font-size: small;">Praktick&yacute; l&eacute;kař pro&nbsp;děti a&nbsp;dorost, Dětsk&aacute; endokrinologie a&nbsp;diabetologie</span></strong></span></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://doktor-skala.cz">http://doktor-skala.cz</a></p>
+</td>
+</tr>
+<tr>
+<td><u><strong>Upozorněn&iacute;:</strong></u> od&nbsp;<strong>1.4.2014</strong> je přesunuta ordinace dětsk&eacute;ho l&eacute;kaře ze&nbsp;Hřebče do&nbsp;Bu&scaron;těhradu, kde jsou roz&scaron;&iacute;řeny ordinačn&iacute; hodiny ve&nbsp;stejn&eacute;m čase.</td>
+</tr>
+<tr>
+<td>
+<div><span style="font-size: small;"><strong><strong>Ordinace Bu&scaron;těhrad</strong></strong></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Adresa:</strong> Kladensk&aacute; 433, 273&nbsp;43&nbsp;Bu&scaron;těhrad</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Telefon:</strong> 312&nbsp;250&nbsp;829</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Ordinačn&iacute; hodiny:</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 516.21px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td style="width: 52.54px; background-color: #ccffcc;">
+<div><strong>ponděl&iacute;</strong></div>
+</td>
+<td style="width: 181.33px; background-color: #ccffcc;">
+<div><strong>10.00 - 12.00</strong></div>
+</td>
+<td style="width: 271.66px; background-color: #ccffcc;">
+<div><strong>13.00 - 17.30<br /> (13.00 - 15.30 v&nbsp;době letn&iacute;ch pr&aacute;zdnin)</strong></div>
+</td>
+</tr>
+<tr>
+<td style="width: 52.54px; background-color: #ccffcc;">
+<div><strong>&uacute;ter&yacute;</strong></div>
+</td>
+<td style="width: 181.33px; background-color: #ccffcc;">
+<div><strong>8.00 - 9.00</strong></div>
+<div><strong>(odběry pro&nbsp;objednan&eacute;)</strong></div>
+<div>&nbsp;</div>
+<div><strong>9.00 - 11.30</strong></div>
+<div><strong>(kojeneck&aacute; poradna)</strong></div>
+</td>
+<td style="width: 271.66px; background-color: #ccffcc;">
+<div><strong>12.00 - 14.00</strong><br /> &nbsp;</div>
+<div><strong>14.00 - 16.00</strong></div>
+<div><strong>(prevence pro&nbsp;objednan&eacute;)</strong></div>
+</td>
+</tr>
+<tr>
+<td style="width: 52.54px; background-color: #ccffcc;">
+<div><strong>středa</strong></div>
+</td>
+<td style="width: 181.33px; background-color: #ccffcc;">
+<div><strong>8.00 -&nbsp;11.30</strong></div>
+</td>
+<td style="width: 271.66px; background-color: #ccffcc;">
+<div><strong>&nbsp;---</strong></div>
+</td>
+</tr>
+<tr>
+<td style="width: 52.54px; background-color: #ccffcc;">
+<div><strong>čtvrtek</strong></div>
+</td>
+<td style="width: 181.33px; background-color: #ccffcc;">
+<div><strong>11.00 - 12.30</strong></div>
+<div><strong>(kojeneck&aacute; poradna)</strong></div>
+</td>
+<td style="width: 271.66px; background-color: #ccffcc;">
+<div><strong>12.30 - 14.00</strong></div>
+</td>
+</tr>
+<tr>
+<td style="width: 52.54px; background-color: #ccffcc;">
+<div><strong>p&aacute;tek</strong></div>
+</td>
+<td style="width: 181.33px; background-color: #ccffcc;">
+<div><strong>9.00 - 11.30</strong></div>
+</td>
+<td style="width: 271.66px; background-color: #ccffcc;">
+<div><strong>12.00 - 14.00</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<h2><span style="color: #000000;"><span style="font-size: large;"><strong><span style="font-size: large;">Obvodn&iacute; l&eacute;kař - MUDr. Olga &Scaron;imovičov&aacute;</span></strong></span></span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<div><span style="color: #000000;"><span style="font-size: small;"><strong><span style="font-size: small;">Praktick&yacute; l&eacute;kař pro&nbsp;dospěl&eacute;</span></strong></span></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://simbio.care">http://simbio.care</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<div><span style="font-size: small;"><strong><strong>Ordinace Hřebeč</strong></strong></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Adresa:</strong>&nbsp; Kladensk&aacute; 371, 273&nbsp;45&nbsp;Hřebeč</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Telefon:</strong>&nbsp; 774&nbsp;33&nbsp;07&nbsp;07</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Ordinačn&iacute; hodiny:</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<table style="border: currentColor; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt; border-style: double double solid; border-color: windowtext; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Ponděl&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt medium; border-style: double double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt medium; border-style: double double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt medium; border-style: double double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt; text-align: center;" width="121"><strong>---</strong></td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>&Uacute;ter&yacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>7.30&nbsp;- 11.00</strong></div>
+<div align="center"><strong>akutn&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>11.00&nbsp;-&nbsp;13.30</strong></div>
+<div align="center"><strong>objednan&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt; text-align: center;" width="121">
+<div><strong>16.00 - 18.00</strong></div>
+<div><strong>objednan&iacute;</strong></div>
+</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Středa</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt; text-align: center;" width="121"><strong>---</strong></td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Čtvrtek</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>7.30&nbsp;- 11.00</strong></div>
+<div align="center"><strong>akutn&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>11.00 - 13.30</strong></div>
+<div align="center"><strong>objednan&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt; text-align: center;" width="121">&nbsp;</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt; border-style: none double double; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>P&aacute;tek</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt medium; border-style: none double double none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt medium; border-style: none double double none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt;" width="121">
+<div align="center"><strong>12.00 &ndash; 13.30</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt medium; border-style: none double double none; border-color: currentColor; padding: 0cm 5.4pt; width: 90.7pt; text-align: center;" width="121"><strong>---</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div><span style="font-size: small;"><strong><strong>Ordinace Hostouň</strong></strong></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Adresa:</strong>&nbsp; Jenečsk&aacute; 47, 273&nbsp;53&nbsp;Hostouň</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Telefon:&nbsp; </strong>774 33&nbsp;07&nbsp;07</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Ordinačn&iacute; hodiny:</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<table style="border: currentColor; width: 422.32px; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt; border-style: double double solid; border-color: windowtext; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Ponděl&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt medium; border-style: double double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 159px;" width="121">
+<div align="center"><strong>7.30 &ndash; 11.00</strong></div>
+<div align="center"><strong>akutn&iacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: 1.5pt 1.5pt 1pt medium; border-style: double double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 165px;" width="121">
+<div align="center"><strong>12.00 &ndash; 15.30</strong></div>
+<div align="center"><strong>objednan&iacute;</strong></div>
+</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>&Uacute;ter&yacute;</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 159px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 165px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Středa</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 159px;" width="121">
+<div align="center"><strong>7.30 &ndash; 12.00</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 165px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt; border-style: none double solid; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>Čtvrtek</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 159px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1pt medium; border-style: none double solid none; border-color: currentColor; padding: 0cm 5.4pt; width: 165px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+</tr>
+<tr>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt; border-style: none double double; border-color: currentColor; padding: 0cm 5.4pt; width: 58pt;" width="77">
+<div><strong>P&aacute;tek</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt medium; border-style: none double double none; border-color: currentColor; padding: 0cm 5.4pt; width: 159px;" width="121">
+<div align="center"><strong>7.30 &ndash; 11.00</strong></div>
+</td>
+<td style="background: #ccffcc; border-width: medium 1.5pt 1.5pt medium; border-style: none double double none; border-color: currentColor; padding: 0cm 5.4pt; width: 165px;" width="121">
+<div align="center"><strong>---</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Odběry krve - denně od&nbsp;7.30 do&nbsp;9.45 hod.</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<h2><span style="color: #000000;"><span style="font-size: large;"><strong><span style="font-size: large;">Zubn&iacute; l&eacute;kař</span></strong></span></span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<div><span style="color: #000000;"><span style="font-size: small;"><strong><span style="font-size: small;">Stomatologie</span></strong></span></span></div>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><strong><span style="color: #0000ff;">MUDr. Jarmila Frankov&aacute;, kter&aacute; dlouh&aacute; l&eacute;ta pečovala o&nbsp;na&scaron;e zuby v&nbsp;hřebečsk&eacute; a&nbsp;hostouňsk&eacute; ordinaci, svou činnost ukončila a&nbsp;obě ordinace na&nbsp;konci ř&iacute;jna 2011&nbsp;zavřela.</span></strong></p>
+<p><strong><span style="color: #0000ff;">V současn&eacute; době tedy v&nbsp;na&scaron;&iacute; obci zubař nen&iacute; a&nbsp;pacienti si mus&iacute; zajistit nov&eacute;ho sami.</span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>

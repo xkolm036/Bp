@@ -11,5 +11,6 @@ namespace data.Model
     {
         [AllowHtml]
         public string text { get; set; } = null;
+        public string title { get; set; } = null;
     }
 }

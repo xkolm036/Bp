@@ -113,4 +113,4 @@
 <h5>JAK SE&nbsp;K&nbsp;N&Aacute;M DOSTANETE.....</h5>
 <p><strong>GPS:</strong></p>
 <p><a href="http://www.mapy.cz/#mm=ZTtTcP@sa=s@st=s@ssq=h%C5%99ebe%C4%8D@sss=1@ssp=124525676_124153548_146054252_145927884@x=132479808@y=136124736@z=14" target="_blank" rel="noopener"><span style="color: #0066cc;">Loc: 50&deg;8'9.014"N, 14&deg;9'52.431"E</span></a></p>
-<p>&nbsp;</p>
+<p>&nbsp;Test tiny mce</p>
