@@ -12,14 +12,14 @@ namespace bp.Controllers
         // GET: StaticPages
         public ActionResult Page_Show(string name)
         {
-            Stranka s = new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/"+name+".txt")) };
+            Stranka s = new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/" + name + ".txt")) };
             s.title = name;
             return View(s);
         }
-   
+
         public ActionResult Page_Edit(string name)
         {
-            Stranka s = new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/"+name+".txt")) };
+            Stranka s = new Stranka { text = System.IO.File.ReadAllText(Server.MapPath(@"~/Stranky/" + name + ".txt")) };
             s.title = name;
             return View(s);
         }
@@ -27,8 +27,9 @@ namespace bp.Controllers
         [HttpPost]
         public ActionResult Page_Edit_Comit(Stranka s, string name)
         {
-            System.IO.File.WriteAllText(Server.MapPath(@"~/Stranky/"+name+".txt"), s.text);
-            return RedirectToAction("Page_Show", "StaticPages",new {name=name });
+            System.IO.File.WriteAllText(Server.MapPath(@"~/Stranky/" + name + ".txt"), s.text);
+            TempData["msg-succes"] = "Stránka byla uspěšně upravena";
+            return RedirectToAction("Page_Show", "StaticPages", new { name = name });
         }
     }
 }

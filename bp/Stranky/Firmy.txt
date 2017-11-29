@@ -90,7 +90,7 @@
 <tr>
 <td>
 <ul>
-<li>&Uacute;klidov&eacute; služby. </li>
+<li>&Uacute;klidov&eacute; služby.</li>
 </ul>
 </td>
 </tr>
