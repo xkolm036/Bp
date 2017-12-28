@@ -1,4 +1,4 @@
-<table style="width: 849px; height: 660px;" cellspacing="1" cellpadding="1">
+<table style="width: 851px; height: 628px;" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
 <td style="width: 254px;"><span style="font-family: Tahoma;"><strong>&nbsp;Ofici&aacute;ln&iacute; n&aacute;zev:</strong></span></td>
@@ -113,4 +113,4 @@
 <h5>JAK SE&nbsp;K&nbsp;N&Aacute;M DOSTANETE.....</h5>
 <p><strong>GPS:</strong></p>
 <p><a href="http://www.mapy.cz/#mm=ZTtTcP@sa=s@st=s@ssq=h%C5%99ebe%C4%8D@sss=1@ssp=124525676_124153548_146054252_145927884@x=132479808@y=136124736@z=14" target="_blank" rel="noopener"><span style="color: #0066cc;">Loc: 50&deg;8'9.014"N, 14&deg;9'52.431"E</span></a></p>
-<p>&nbsp;</p>
+<p>&nbsp;wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</p>

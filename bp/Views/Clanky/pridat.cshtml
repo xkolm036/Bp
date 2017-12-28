@@ -17,6 +17,9 @@
     <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
 }
 
+@section Scripts{
+    <script src="~/ckeditor/ckeditor.js"></script>
+}
 
 @using (Html.BeginForm("Pridej", "Clanky", FormMethod.Post))
 {
@@ -39,7 +42,8 @@
         </span>
            
     
-        @Html.TextAreaFor(x => x.text, new { @class = "form-control formated-text" })
+        @Html.TextAreaFor(x => x.text, new { @class = "form-control",id="CKE" })
+        <script type="text/javascript">CKEDITOR.replace("CKE");</script>
 
     </div>
 
