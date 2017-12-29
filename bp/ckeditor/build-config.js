@@ -13,10 +13,10 @@
  * (1) http://ckeditor.com/builder
  *     Visit online builder to build CKEditor from scratch.
  *
- * (2) http://ckeditor.com/builder/a34b6c4c7979d59183fd93ad6508ee99
+ * (2) http://ckeditor.com/builder/b5e2845c2ebc06f1bfded267159ee2ce
  *     Visit online builder to build CKEditor, starting with the same setup as before.
  *
- * (3) http://ckeditor.com/builder/download/a34b6c4c7979d59183fd93ad6508ee99
+ * (3) http://ckeditor.com/builder/download/b5e2845c2ebc06f1bfded267159ee2ce
  *     Straight download link to the latest version of CKEditor (Optimized) with the same setup as before.
  *
  * NOTE:
@@ -25,7 +25,7 @@
  */
 
 var CKBUILDER_CONFIG = {
-	skin: 'moono',
+	skin: 'office2013',
 	preset: 'standard',
 	ignore: [
 		'.DS_Store',
@@ -53,6 +53,7 @@ var CKBUILDER_CONFIG = {
 	plugins : {
 		'a11yhelp' : 1,
 		'about' : 1,
+		'balloontoolbar' : 1,
 		'basicstyles' : 1,
 		'blockquote' : 1,
 		'clipboard' : 1,
@@ -67,6 +68,7 @@ var CKBUILDER_CONFIG = {
 		'htmlwriter' : 1,
 		'image' : 1,
 		'indentlist' : 1,
+		'lineheight' : 1,
 		'link' : 1,
 		'list' : 1,
 		'magicline' : 1,
@@ -76,6 +78,7 @@ var CKBUILDER_CONFIG = {
 		'removeformat' : 1,
 		'resize' : 1,
 		'scayt' : 1,
+		'showblocks' : 1,
 		'showborders' : 1,
 		'sourcearea' : 1,
 		'specialchar' : 1,
@@ -92,6 +95,7 @@ var CKBUILDER_CONFIG = {
 	},
 	languages : {
 		'cs' : 1,
+		'de' : 1,
 		'en' : 1
 	}
 };

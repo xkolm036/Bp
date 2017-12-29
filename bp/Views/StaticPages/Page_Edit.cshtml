@@ -8,6 +8,13 @@
 
 @section Scripts{
     <script src="~/ckeditor/ckeditor.js"></script>
+<script type="text/javascript">
+        $(function () {
+            CKEDITOR.replace('<%=txtCkEditor.ClientID %>');
+            CKEDITOR.config.height = 200;
+        });
+</script>
+
 }
 
 
