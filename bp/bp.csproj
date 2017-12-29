@@ -314,7 +314,7 @@
     <Content Include="ckeditor\plugins\wsc\README.md" />
     <Content Include="ckeditor\README.md" />
     <Content Include="ckeditor\skins\moono\readme.md" />
-    <None Include="Properties\PublishProfiles\MartinKolarik - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\Kolarik-BP - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
