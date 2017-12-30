@@ -7,10 +7,12 @@
 </div>
 }
 
-@section dropdown{
+@section adminMenu{
 
-    <li><a href="@Url.Action("Pridat", "Clanky")">Přidat článek</a></li>
-    <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
+<a href="@Url.Action("Index","Home")" class="list-group-item active">Aktuality</a>
+<a href="@Url.Action("Pridat","Clanky")" class="list-group-item">Přidat článek</a>
+<a href="@Url.Action("Seznam","Clanky")" class="list-group-item">Seznam článků</a>
+
 }
 
 

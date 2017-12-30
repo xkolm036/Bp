@@ -11,10 +11,11 @@
     <h1>Přidat článek</h1>
 }
 
-@section dropdown{
+@section adminMenu{
+<a href="#" class="list-group-item active">Přidat článek</a>
+@Html.ActionLink("Seznam článků", "seznam", "Clanky", new { }, new { @class = "list-group-item" })
+@Html.ActionLink("Aktuality", "Index", "Home", new { }, new { @class = "list-group-item" })
 
-    <li><a href="@Url.Action("Pridat", "Clanky")">Přidat článek</a></li>
-    <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
 }
 
 @section Scripts{

@@ -11,10 +11,13 @@
     <h1>Upravit článek</h1>
 }
 
-@section dropdown{
+@section adminMenu{
+  <a href="#" class="list-group-item active">Úprava článku</a>
+@Html.ActionLink("Detail článku", "detail", "Clanky", new {id=Model.id }, new { @class = "list-group-item" })
+@Html.ActionLink("Seznam článků", "seznam", "Clanky",new { }, new { @class = "list-group-item" })
 
-    <li><a href="@Url.Action("Pridat", "Clanky")">Přidat článek</a></li>
-    <li><a href="@Url.Action("Seznam","Clanky")">Seznam Článků</a></li>
+
+
 }
 
 @section Scripts{
@@ -26,7 +29,7 @@
 
 
 
-@using (Html.BeginForm("Edit", "Clanky",new {id=Model.id }, FormMethod.Post))
+@using (Html.BeginForm("Edit", "Clanky", new { id = Model.id }, FormMethod.Post))
 {
 
     <div class="form-group">

@@ -1,11 +1,6 @@
 ﻿@using data.Model
 @model Stranka
 
-
-@section main{
-    <h1> Úprava @Model.title </h1>
-}
-
 @section Scripts{
     <script src="~/ckeditor/ckeditor.js"></script>
 <script type="text/javascript">
@@ -16,9 +11,15 @@
 </script>
 
 }
+@section main{
+    <h1> Úprava @Model.title </h1>
+}
 
+@section adminMenu{
 
-
+    <a href="#" class="list-group-item active">Úprava stránky</a>
+   @Html.ActionLink("Zpět", "Page_Show", "StaticPages",new {name =Model.title },new {@class= "list-group-item" })
+}
 
 
 @using (Html.BeginForm("Page_Edit_Comit", "StaticPages", new { name = Model.title }, FormMethod.Post))
