@@ -3,8 +3,8 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.editorConfig = function (config) {
-    config.height = '900px';
+CKEDITOR.editorConfig = function( config ) {
+  config.height = '800px';
     config.language = "cs";
 	// Define changes to default configuration here.
 	// For complete reference see:
