@@ -19,7 +19,9 @@ namespace data.Model
         [Required(ErrorMessage = "Obsah nesmí být prázdný")]
         public string text { get; set; }
 
-
+        /// <summary>
+        /// Prida článek do databáze
+        /// </summary>
         public static void pridejDoDB(Clanek cl)
         {
 
@@ -37,7 +39,9 @@ namespace data.Model
             }
 
         }
-
+        /// <summary>
+        /// Vybere z db článek s určitým id
+        /// </summary>
         public static Clanek vyberZDb(int id)
         {
             Clanek cl = new Clanek();
@@ -61,6 +65,9 @@ namespace data.Model
             }
             return cl;
         }
+        /// <summary>
+        /// Počet článků v db
+        /// </summary>
         public static int pocetVDB()
         {
             int pocet = 0;
@@ -70,6 +77,9 @@ namespace data.Model
             }
             return pocet;
         }
+        /// <summary>
+        /// Odebere z db clanek s danám id
+        /// </summary>
         public static void odeberZDB(int id)
         {
 
@@ -82,6 +92,9 @@ namespace data.Model
             }
 
         }
+        /// <summary>
+        /// Vratí všechny články z db
+        /// </summary>
         public static List<Clanek> VseZDB()
         {
             List<Clanek> database = new List<Clanek>();
@@ -118,6 +131,9 @@ namespace data.Model
             return database;
         }
 
+        /// <summary>
+        /// úprava hodnot článku 
+        /// </summary>
         public static void update(Clanek cl)
         {
             using (clankyEntities context = new clankyEntities())
