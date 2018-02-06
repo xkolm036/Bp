@@ -34,11 +34,7 @@ namespace bp.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            if ((ViewBag.mac=GetMacAddress().ToString().Trim())== "001CC0B17D95")
-            {
-                return RedirectToAction("Login","Home");
-            }
-            
+            ViewBag.background = "background"; //nastavení obrazku na stance aktuality
        
             return View(Clanek.VseZDB());
         }
