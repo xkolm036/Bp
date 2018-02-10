@@ -90,7 +90,30 @@
       <DependentUpon>ClanekModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Model\Clanek.cs" />
+    <Compile Include="Model\Role.cs">
+      <DependentUpon>Users.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Roles.cs" />
     <Compile Include="Model\Stranka.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\Users.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Users.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Users.cs">
+      <DependentUpon>Users.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Users.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Users.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Users1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Users.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -103,6 +126,13 @@
     </EntityDeploy>
     <None Include="ClanekModel.edmx.diagram">
       <DependentUpon>ClanekModel.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model\Users.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Users.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model\Users.edmx.diagram">
+      <DependentUpon>Users.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
@@ -119,6 +149,16 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ClanekModel.edmx</DependentUpon>
       <LastGenOutput>ClanekModel.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model\Users.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Users.edmx</DependentUpon>
+      <LastGenOutput>Users.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model\Users.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Users.edmx</DependentUpon>
+      <LastGenOutput>Users1.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup />

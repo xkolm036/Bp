@@ -605,7 +605,6 @@
     <Content Include="Views\Clanky\upravit.cshtml" />
     <Content Include="Views\StaticPages\Page_Show.cshtml" />
     <Content Include="Views\StaticPages\Page_Edit.cshtml" />
-    <Content Include="Views\Home\Login.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
